@@ -14,10 +14,10 @@ void main()
 {
     int m , s , n;
 
-    printf("enter the value of m  \n");
+    printf("enter the value of first number  \n");
     scanf("%d",&m);
 
-    printf("enter the value of n \n");
+    printf("enter the value of second number \n");
     scanf("%d",&n);
 
     printf("%d",a(m,n));
